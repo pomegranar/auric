@@ -26,3 +26,4 @@ music_visualizer/
 │   ├── render_test.rs       # Tests rendering functionality
 ├── README.md             # Project description and setup instructions
 ├── LICENSE               # License for your project
+
