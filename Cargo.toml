@@ -1,0 +1,11 @@
+[package]
+name = "auric"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.10.0"   # Audio capture
+rustfft = "5.0.0"  # FFT processing
+wgpu = "0.12.0"    # GPU rendering
+winit = "0.27.0"   # Window and event handling
+pollster = "0.3.0" # Async event loop for blocking async functions
